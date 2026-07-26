@@ -1,0 +1,7 @@
+[package]
+name = "datalite"
+version = "0.1.0"
+edition = "2021"
+description = "SDK for Datalite DX-3200 LED display controllers over RS-232"
+
+[dependencies]
