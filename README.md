@@ -24,7 +24,7 @@ graph LR
 
     subgraph RS232["RS-232 Bus"]
         MAX["MAX3232\nLevel Shifter"]
-        RJ45["RJ45"]
+        RJ45["2pin RS232"]
     end
 
     subgraph Display["DX-3200 Display"]
@@ -34,7 +34,7 @@ graph LR
     end
 
     B -- "WiFi" --> WiFi
-    UART --> MAX --> RJ45 --> C1 & C2 & CN
+    UART --> MAX --> RJ45 --> C1 --> C2 --> CN
 
     style ESP32-C3 fill:#1a1a2e,stroke:#0f0,color:#0f0
     style Display fill:#1a1a2e,stroke:#f80,color:#f80
