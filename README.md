@@ -133,11 +133,15 @@ The SDK supports multi-controller addressing, multi-page content, inline blink m
 
 ### Components
 
-| Part | Role |
-|------|------|
-| **Seeed XIAO ESP32-C3** | Microcontroller — runs the firmware, provides WiFi and UART |
-| **UART-to-RS232 converter** (e.g. MAX3232 breakout) | Level-shifts 3.3V UART to RS-232 voltage levels for the DX-3200 bus |
-| **RJ45 cable** | Carries the RS-232 signal to the display controller chain |
+| Part                                                | Role                                                                     | Pic                                                    | Link |
+|-----------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------|------|
+| **Seeed XIAO ESP32-C3**                             | Microcontroller — runs the firmware, provides WiFi and UART              | <img src=".docs/promo-esp.png" width="32"/>            | [Link Aliexpress*](https://s.click.aliexpress.com/e/_c4BDnBDd)           
+| **UART-to-RS232 converter** (e.g. MAX3232 breakout) | Level-shifts 3.3V UART to RS-232 voltage levels for the DX-3200 bus      | <img src=".docs/promo-uart-to-rs232.webp" width="32"/> | [Link Aliexpress*](https://s.click.aliexpress.com/e/_c3OQjfKr)
+| **RJ45 cable (Only Way 1)**                         | You can Cut it to use the External RJ45 Port to connect to TTL Converter | <img src=".docs/promo-rj45.png" width="32"/>           | [Link Aliexpress*](https://s.click.aliexpress.com/e/_c3c2ptMT)
+| **USB C Port (Only Way 2)**                         | To Mount externally on the Device                                        | <img src=".docs/promo-usb-port.png" width="32"/>       | [Link Aliexpress*](https://s.click.aliexpress.com/e/_c4dL41DV)
+| **Old USB C Cable (Only Way 2)**                    | You can Cut it to power the External USB-C Port you installed            | <img src=".docs/promo-usb-cable.png" width="32"/>      | [Link Aliexpress*](https://s.click.aliexpress.com/e/_c4Nmneej)
+
+*\*These are Referal Links. I get a promotion when u use them.*
 
 ### Wiring
 
