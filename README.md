@@ -4,7 +4,7 @@ WiFi-to-RS232 bridge for **Datalite DX-3200** LED display controllers, running o
 
 **Format&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Style&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configure**
 
-<img src=".docs/ui-main.png" width="280"/> <img src=".docs/ui-blink.png" width="280"/> <img src=".docs/ui-settings.png" width="310"/>
+<img src=".docs/ui-main.png" width="250"/> <img src=".docs/ui-blink.png" width="250"/> <img src=".docs/ui-settings.png" width="270"/>
 
 ## Architecture
 
