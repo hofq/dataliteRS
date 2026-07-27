@@ -2,6 +2,10 @@
 
 WiFi-to-RS232 bridge for **Datalite DX-3200** LED display controllers, running on an ESP32-C3. Provides a web UI to compose and send multi-page content over the serial bus.
 
+**Format&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Style&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Configure**
+
+<img src=".docs/ui-main.png" width="280"/> <img src=".docs/ui-blink.png" width="280"/> <img src=".docs/ui-settings.png" width="310"/>
+
 ## Architecture
 
 ```mermaid
