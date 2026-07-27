@@ -213,13 +213,16 @@ You can either connect it to the first Controller or to the Ports of the RJ45 Ja
 ![](.docs/wiring-rj45-internal.png)  
 <br />
 3. Tap **5V from one of the display's internal power supply** to power the ESP32-C3 via its 5V pin (not USB-C). **Measure first to Validate 5V!**  
-![](.docs/wiring-power-esp.png) ![](.docs/wiring-power-supply.png)  
+![](.docs/wiring-power-esp.png)
+![](.docs/wiring-power-supply.png)  
 <br />
 4. *Optional:* Drill a small hole in the housing for the **USB-C port** — useful for reflashing firmware and debugging without opening the case.  
-![](.docs/wiring-usb-c-internal.png) ![](.docs/external-usb-c.png)  
+![](.docs/wiring-usb-c-internal.png)
+![](.docs/external-usb-c.png)  
 <br />
 5. *Optional:* Drill or route a slot for the **WiFi antenna** to improve signal as the housing is metal.  
-![](.docs/external-antenna.png) ![](.docs/internal-antenna.png)
+![](.docs/external-antenna.png)
+![](.docs/internal-antenna.png)  
 <br />
 
 *Now you have a clean future-proof setup which allows most importantly portability. For me that is why i choose it.*
